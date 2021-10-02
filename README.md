@@ -10,7 +10,8 @@ The work has a simple landing page with Aboutme Home tab ,project/portfolio tab 
 
 <img src="./judyportfolio.gif">
 
-
+*  No backend hence hosted on GH pages; Cd desktop Creat npx..appname-->cd appname --->replace src content with your src - add npm i packages bootstap and dom ,npm i gh pages
+*  Add homepage in package json Add 2 lines in scripts in package json ;run npm deploy,create git repo ,init and push code to rep after add and commits ..Codes goes to master or main ..Run npm run deploy to deploy on GH pages.The script generated in GH pages is your deployed link for this activity
 
 # Getting Started with Create React App
 
