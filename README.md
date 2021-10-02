@@ -6,7 +6,7 @@ https://github.com/JudyMotha/judy_portfolio
 
 The work has a simple landing page with Aboutme Home tab ,project/portfolio tab ,contact tab and Resume tab.The portfolio page contains a few GH  repositories and published sites.The footer contains Social media icons
 
-
+<img src="./judyportfolio.gif">
 
 
 
