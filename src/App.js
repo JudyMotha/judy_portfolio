@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavTabs from "./NavigateTabs";
+import NavigateTabs from "./NavigateTabs";
 import Home from "./components/Home";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
@@ -14,7 +14,7 @@ function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <div>
-        <NavTabs/>
+        <NavigateTabs/>
         <Route exact path="/" component={Home} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
