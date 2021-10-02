@@ -1,0 +1,69 @@
+.submit-btn {
+    background-color:black;
+    color: white;
+    padding:2px;
+    margin:10px;
+  }
+main {
+    background-color: bisque;
+    overflow: auto;
+    height: 700px;
+}
+
+
+#profname {  
+    color: black;
+    flex-basis: 70% ;
+}
+
+ul,li{justify-content:center;flex-basis:20% ;}
+
+.navbar {
+    min-height: 90px;
+    padding: 0;
+    background-color: #dbc0c0;
+    display:flex;
+    
+}
+
+a {
+       font-size:20px;
+}
+.box-2 {
+    padding: 30px 40px;
+}
+.about, .col p {
+    padding-bottom: 15px;
+     padding-left: 0;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.para {
+    padding-left: 0;
+    padding-top: 20px;
+}
+.avatar {
+    padding-right: 20px;
+    padding-top: 10px;
+    width: 300px;
+    height: 250px;
+}
+
+.containerDiv {
+    background-color: white;
+    margin-top:40px;
+    }
+footer {
+    background-color: #dbc0c0;
+    height: 100px;
+    border-top: 10px solid teal;
+    clear: both;
+}
+.middle {
+    padding-top: 30px;
+    color: white;
+}
+
+ 
+  
