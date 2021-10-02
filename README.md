@@ -1,4 +1,4 @@
-* Professional_Portfolio
+# Professional_Portfolio
 
 * GH pages
 https://judymotha.github.io/judy_portfolio/
@@ -6,7 +6,7 @@ https://judymotha.github.io/judy_portfolio/
 * Source code
 https://github.com/JudyMotha/judy_portfolio
 
-The work has a simple landing page with Aboutme Home tab ,project/portfolio tab ,contact tab and Resume tab.The portfolio page contains a few GH  repositories and published sites.The footer contains Social media icons
+The work has a simple landing page with Aboutme Home tab ,project/portfolio tab ,contact tab and Resume tab.The portfolio page contains a few GH  repositories and published sites.The footer contains Social media icons.The Resume tab contains resume and skills
 
 <img src="./judyportfolio.gif">
 
