@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/judy_portfolio/static/css/main.1422d2c4.chunk.css",
+    "main.js": "/judy_portfolio/static/js/main.0f5ef476.chunk.js",
+    "main.js.map": "/judy_portfolio/static/js/main.0f5ef476.chunk.js.map",
+    "runtime-main.js": "/judy_portfolio/static/js/runtime-main.daceebfe.js",
+    "runtime-main.js.map": "/judy_portfolio/static/js/runtime-main.daceebfe.js.map",
+    "static/css/2.f2512455.chunk.css": "/judy_portfolio/static/css/2.f2512455.chunk.css",
+    "static/js/2.758c150c.chunk.js": "/judy_portfolio/static/js/2.758c150c.chunk.js",
+    "static/js/2.758c150c.chunk.js.map": "/judy_portfolio/static/js/2.758c150c.chunk.js.map",
+    "index.html": "/judy_portfolio/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/judy_portfolio/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.1422d2c4.chunk.css.map": "/judy_portfolio/static/css/main.1422d2c4.chunk.css.map",
+    "static/js/2.758c150c.chunk.js.LICENSE.txt": "/judy_portfolio/static/js/2.758c150c.chunk.js.LICENSE.txt",
+    "static/media/kelly-sikkema-377gw1wN0Ic-unsplash.73f6fd51.jpg": "/judy_portfolio/static/media/kelly-sikkema-377gw1wN0Ic-unsplash.73f6fd51.jpg",
+    "static/media/marek-piwnicki-2jjzyoLfpT4-unsplash.d31f21e7.jpg": "/judy_portfolio/static/media/marek-piwnicki-2jjzyoLfpT4-unsplash.d31f21e7.jpg",
+    "static/media/mykola-makhlai-hVfhVn15Lbg-unsplash.99cdb703.jpg": "/judy_portfolio/static/media/mykola-makhlai-hVfhVn15Lbg-unsplash.99cdb703.jpg",
+    "static/media/mypict.1ae7572c.jpg": "/judy_portfolio/static/media/mypict.1ae7572c.jpg",
+    "static/media/ryan-geller-9mGSc18MV3s-unsplash.308c0692.jpg": "/judy_portfolio/static/media/ryan-geller-9mGSc18MV3s-unsplash.308c0692.jpg",
+    "static/media/sincerely-media-XihOO7UOvy4-unsplash.a2f86e45.jpg": "/judy_portfolio/static/media/sincerely-media-XihOO7UOvy4-unsplash.a2f86e45.jpg",
+    "static/media/ux-indonesia-w00FkE6e8zE-unsplash.8ff57cd6.jpg": "/judy_portfolio/static/media/ux-indonesia-w00FkE6e8zE-unsplash.8ff57cd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daceebfe.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.758c150c.chunk.js",
+    "static/css/main.1422d2c4.chunk.css",
+    "static/js/main.0f5ef476.chunk.js"
+  ]
+}
